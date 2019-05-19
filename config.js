@@ -9,7 +9,7 @@ module.exports = {
   defaultLanguage: 'en',
   disqusScript: 'https://luigi-colella.disqus.com/embed.js',
   pages: {
-    home: '/',
+    home: '/blog',
     blog: 'blog',
     about: 'about',
     tag: 'tag',
