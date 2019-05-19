@@ -1,7 +1,7 @@
 
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
-  siteUrl: 'https://boring-lichterman-6d9d47.netlify.com/blog/',
+  siteUrl: 'https://boring-lichterman-6d9d47.netlify.com/',
   siteTitle: 'Luigi Colella',
   siteDescription: 'Logbook of a software developer',
   author: 'lcolella',
@@ -9,7 +9,7 @@ module.exports = {
   defaultLanguage: 'en',
   disqusScript: 'https://luigi-colella.disqus.com/embed.js',
   pages: {
-    home: '/blog',
+    home: '/',
     blog: 'blog',
     about: 'about',
     tag: 'tag',
