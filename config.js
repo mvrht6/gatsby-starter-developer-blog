@@ -1,7 +1,7 @@
 
 module.exports = {
   pathPrefix: '/gatsby-starter-developer-blog',
-  siteUrl: 'https://lgcolella.github.io',
+  siteUrl: 'https://boring-lichterman-6d9d47.netlify.com/blog/',
   siteTitle: 'Luigi Colella',
   siteDescription: 'Logbook of a software developer',
   author: 'lcolella',
